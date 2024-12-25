@@ -1,0 +1,9 @@
+1.what makes a software open source?
+  Open source software (OSS) is software that is distributed with its source code, making it available for use,                          
+  modification, and distribution with its original rights.
+2.list five motivation of open source developer's participation
+.Taking on or overcoming challenges.
+.Developing new skills.
+.Working with others.
+.Working independently.
+.Having less or more frequent direct supervision.
